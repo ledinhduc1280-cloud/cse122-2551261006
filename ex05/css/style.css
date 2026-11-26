@@ -1,0 +1,48 @@
+ body {
+      font-family: "Times New Roman", Times, serif;
+      font-size: 17px;
+    }
+
+    .noidung {
+      width: 720px;
+      margin: 30px auto;
+    }
+
+    h1 {
+      text-align: center;
+      color: #c4005f;
+      font-size: 28px;
+    }
+
+    .trai {
+      float: left;
+      width: 200px;
+    }
+    .trai img {
+      width: 175px;
+    }
+
+
+    .phai {
+      margin-left: 200px;   
+    }
+
+    h3 {
+      display: inline-block;
+      background-color: #ffc3d6;
+      padding: 4px 10px;
+      margin: 10px 0 5px 0;
+      font-size: 17px;
+    }
+
+    ul {
+      line-height: 1.9;
+      margin: 5px 0;
+    }
+    ul.vuong { list-style-type: square; }   
+    ul.tron  { list-style-type: circle; }   
+
+    .banquyen {
+      margin-top: 20px;
+      padding-left: 120px;
+    }
