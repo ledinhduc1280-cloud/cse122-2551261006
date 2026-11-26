@@ -1,0 +1,35 @@
+  body {
+      font-family: "Times New Roman", serif;
+      font-size: 20px;
+      font-style: italic;   
+      text-align: center;  
+    }
+
+
+    .khung {
+      width: 700px;
+      margin: 30px auto;           
+      padding: 25px;               
+      background-color: #fdfde8;    
+      border: 1px solid #aaaaaa;    
+    }
+
+
+    h1 {
+      font-style: normal;           
+      color: #cc0000;               
+      background-color: #ffdde6;    
+      padding: 12px;
+      margin-bottom: 25px;
+    }
+
+    .xanh { color: #0022cc; }
+    .do   { color: #dd0000; }
+
+  
+    hr {
+      width: 60%;
+      border: none;
+      border-top: 1px solid #3366cc;
+      margin: 20px auto;
+    }
